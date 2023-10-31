@@ -5,15 +5,15 @@ Vector icons of programming frameworks and languages for GitHub profile markdown
 Simply add icons to your GitHub Profile by adding the following in your markdown:
 
 ```shell
-<img src="https://raw.githubusercontent.com/amooo-ooo/icons/main/{type}/{name}.svg">
+<img src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/{name}.svg">
 ```
 
 To create the effect:
 <br><br>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/python.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/django.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/svelte.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/react.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/docker.svg?" width=30>
+<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/python.svg?" width=30>
+<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/django.svg?" width=30>
+<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/svelte.svg?" width=30>
+<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/react.svg?" width=30>
+<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/icons/main/src/docker.svg?" width=30>
 <br><br>
 Include `align="left"` and `width=30` inside the image tag.
