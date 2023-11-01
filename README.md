@@ -19,4 +19,4 @@ To create the effect:
 Include `align="left"` and `width=30` inside the image tag.
 
 ## Copyright
-All fonts are open-licensed and gathered from [svgrepo](https://www.svgrepo.com/). 
+All icons are open-licensed and gathered from [svgrepo](https://www.svgrepo.com/). 
