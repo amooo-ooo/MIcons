@@ -17,3 +17,6 @@ To create the effect:
 <img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/docker.svg?" width=30>
 <br><br>
 Include `align="left"` and `width=30` inside the image tag.
+
+## Copyright
+All fonts are open-licensed and gathered from [svgrepo](https://www.svgrepo.com/). 
